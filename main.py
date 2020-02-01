@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
 def main():
-    print("***********")
+    print("*****************************")
     print("Welcome to Erik's Bistro game")
-    print("***********")
+    print("*****************************")
     print("");
     username = input("What is your name? ")
     print(f"Hello, {username}")
